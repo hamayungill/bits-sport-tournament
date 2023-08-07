@@ -1,0 +1,9 @@
+#header{background-color: transparent;margin-bottom: 70px;}
+#header .navbar .nav-link{color: #fff;font-size: 22px;margin: 0 40px 0 0;font-weight: 500;}
+#header .navbar .nav-link:hover{color: #8917c6;}
+#header .navbar-brand img{width: 200px;}
+#header .connect-wallet-btn{border-radius: 50px;background-color: #00b0f0;padding: 5px 30px;}
+#header .connect-wallet-btn:hover{background-color: #8917c6;}
+.navbar-toggler{color: #fff;background-color: #fff;}
+.navbar-toggler:focus{box-shadow: none;}
+.navbar-collapse{display: block;text-align: center;}
